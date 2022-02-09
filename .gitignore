@@ -1,0 +1,9 @@
+#Ignoring all Raw Data Files
+
+
+Data/*
+.ipynb_checkpoints/*
+.*/
+/consumption_analysis.py
+/Rain Precipation Analysis.ipynb
+time_series/
