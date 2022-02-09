@@ -104,7 +104,7 @@ parso==0.8.2
 partd==1.2.0
 patsy==0.5.2
 pickleshare==0.7.5
-Pillow==8.4.0
+Pillow==9.0.0
 pmdarima==1.8.4
 progressbar2==3.55.0
 prometheus-client==0.12.0
