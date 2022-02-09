@@ -166,7 +166,7 @@ tqdm==4.62.3
 traitlets==5.1.1
 traittypes==0.2.1
 typing_extensions==4.0.0
-ujson==4.3.0
+ujson==5.1.0
 urllib3==1.26.7
 uvicorn==0.15.0
 vaex==4.6.0
