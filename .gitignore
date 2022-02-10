@@ -7,3 +7,4 @@ Data/*
 /consumption_analysis.py
 /Rain Precipation Analysis.ipynb
 time_series/
+/consumption_data.csv
