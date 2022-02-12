@@ -3,7 +3,6 @@ import vaex as vx
 path = r"C:\Users\mpharma\Projects\Time_Series_Analysis\Data\consumption_data.csv.hdf5"
 
 # Imports data
-# @st.cache(allow_output_mutation=True)
 def load_data(path=path):
 
     data = vx.open(path)
